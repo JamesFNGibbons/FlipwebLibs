@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CF4F8E15-083D-4412-A137-BA629E3CA678}|Default">
+  <MonoDevelop.Ide.ItemProperties.Flipweb.Lib.Postfix FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/Work/Flip-Unified-Communications-Cloud/endpoints/sms/send-sms.js">
+    <Files>
+      <File FileName="FlipwebLibs/Program.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Flipweb.Lib.ASTPP/Request/AstppRequest.cs" Line="8" Column="1" NotebookId="1" />
+      <File FileName="Flipweb.Lib.ASTPP/Request/AstppRequestHeaders.cs" Line="35" Column="14" NotebookId="1" />
+      <File FileName="Flipweb.Lib.ASTPP/ASTPP.cs" Line="11" Column="1" NotebookId="1" />
+      <File FileName="Flipweb.Lib.Postfix/Class1.cs" Line="9" Column="1" NotebookId="1" />
+      <File FileName="../../Documents/Work/Flip-Unified-Communications-Cloud/config.json" Line="15" Column="5" NotebookId="1" />
+      <File FileName="../../Documents/Work/Flip-Unified-Communications-Cloud/middlware/apiAuthGuard.js" Line="23" Column="25" NotebookId="1" />
+      <File FileName="../../Documents/Work/Flip-Unified-Communications-Cloud/index.js" Line="22" Column="26" NotebookId="1" />
+      <File FileName="../../Documents/Work/Flip-Unified-Communications-Cloud/endpoints/sms/send-sms.js" Line="29" Column="79" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlipwebLibs" expanded="True">
+            <Node name="Flipweb.Lib.ASTPP" expanded="True">
+              <Node name="Request" expanded="True" />
+            </Node>
+            <Node name="Flipweb.Lib.Postfix" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="FlipwebLibs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FlipwebLibs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Flipweb.Lib.ASTPP FirstBuild="True" />
+</Properties>

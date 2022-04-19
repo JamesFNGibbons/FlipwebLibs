@@ -1,0 +1,15 @@
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/bin/Debug/net5.0/FlipwebLibs.deps.json
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/bin/Debug/net5.0/FlipwebLibs.runtimeconfig.json
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/bin/Debug/net5.0/FlipwebLibs.runtimeconfig.dev.json
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/bin/Debug/net5.0/FlipwebLibs.dll
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/bin/Debug/net5.0/ref/FlipwebLibs.dll
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/bin/Debug/net5.0/FlipwebLibs.pdb
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.csproj.AssemblyReference.cache
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.AssemblyInfoInputs.cache
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.AssemblyInfo.cs
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.csproj.CoreCompileInputs.cache
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.dll
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/ref/FlipwebLibs.dll
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.pdb
+/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/Debug/net5.0/FlipwebLibs.genruntimeconfig.cache
