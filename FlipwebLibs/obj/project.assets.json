@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/user/.nuget/packages/": {}
+    "C:\\Users\\James Gibbons\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Projects/FlipwebLibs/FlipwebLibs/FlipwebLibs.csproj",
+      "projectUniqueName": "C:\\Users\\James Gibbons\\Source\\Repos\\FlipwebLibs\\FlipwebLibs\\FlipwebLibs.csproj",
       "projectName": "FlipwebLibs",
-      "projectPath": "/Users/user/Projects/FlipwebLibs/FlipwebLibs/FlipwebLibs.csproj",
-      "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Projects/FlipwebLibs/FlipwebLibs/obj/",
+      "projectPath": "C:\\Users\\James Gibbons\\Source\\Repos\\FlipwebLibs\\FlipwebLibs\\FlipwebLibs.csproj",
+      "packagesPath": "C:\\Users\\James Gibbons\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\James Gibbons\\Source\\Repos\\FlipwebLibs\\FlipwebLibs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.config/NuGet/NuGet.Config"
+        "C:\\Users\\James Gibbons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
